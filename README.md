@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WhiteFox18
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning backend programming ( NodeJS, ExpressJS, MongoDB).
+- 💞️ I’m looking to collaborate on web projects.
+- 📫 How to reach me: sharafiddinovfazliddin@gmail.com
